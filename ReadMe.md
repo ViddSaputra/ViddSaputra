@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing an internship<br>🌱 I’m currently learning machine learning and AI<br>
+🔭 I’m currently doing an internship in MyRise.id<br>🌱 I’m currently learning machine learning and AI<br>
 
 
 ## 🌐 Socials:
